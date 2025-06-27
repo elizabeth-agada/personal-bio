@@ -1,0 +1,21 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container {
+    margin: 20px;
+    padding: 20px;
+    background-color: aquamarine;
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+}
+h4 {
+    font-size: 30px;
+}
+h1 {
+    font-size: 50px;
+}
